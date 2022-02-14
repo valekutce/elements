@@ -98,9 +98,9 @@ input {
 
 /* Form */
 .form {
-  width: clamp(320px, 30%, 430px);
+  width: clamp(350px, 30%, 430px);
   margin: 0 auto;
-  background: white;
+  background: #ffffff;
   border: 1px solid #ccc;
   border-radius: 0.35rem;
   padding: 1.5rem;
